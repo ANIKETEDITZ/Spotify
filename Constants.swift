@@ -1,11 +1,10 @@
-
 import Foundation
 
 struct Constants {
 
-    static let clientID = "14963860dd9f481c85dffca8142c9bde"
+    static let clientID = "8dd9af32fb0e4140bde22695eeb2e00e"
 
-    static let clientSecret = "296d9f2157c347cf9e336b11ab344810"
+    static let clientSecret = "a978a0e1b3844d10ac393876c31e946d"
 
     static let tokenAPIURL = "https://accounts.spotify.com/api/token"
 
